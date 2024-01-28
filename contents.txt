@@ -4,3 +4,4 @@ To test changes
 4th line
 5th line
 6th line - original 1
+7th line - 1st change added
