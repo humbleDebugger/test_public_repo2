@@ -1,0 +1,6 @@
+This is just a text file
+To test changes
+3rd line
+4th line
+5th line
+6th line - original 1
